@@ -1,2 +1,2 @@
 # chatFlutter_firebase
-app de chat criando em flutter com firebase
+app de chat criando em flutter com firebase sim
